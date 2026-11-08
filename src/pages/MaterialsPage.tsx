@@ -59,7 +59,7 @@ export const MaterialsPage: React.FC = () => {
   // 1. Receipt
   const [receiptQty, setReceiptQty] = useState<number>(100);
   const [receiptRef, setReceiptRef] = useState('GRN-INBOUND Supplier Consignment');
-  const [receiptUser, setReceiptUser] = useState('Store Supervisor (Kochi Plant)');
+  const [receiptUser, setReceiptUser] = useState('Store Supervisor (Coimbatore Plant)');
 
   // 2. Reserve
   const [reserveBatchId, setReserveBatchId] = useState<string>(batches[0]?.id || '');

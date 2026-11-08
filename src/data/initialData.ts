@@ -33,7 +33,7 @@ export const INITIAL_MATERIALS: MaterialItem[] = [
         quantity: 400,
         timestamp: '2026-10-25 09:30',
         reference: 'GRN-4491 from Luker Supplier',
-        performedBy: 'Store Supervisor (Kochi Plant)'
+        performedBy: 'Store Supervisor (Coimbatore Plant)'
       },
       {
         id: 'TXN-002',

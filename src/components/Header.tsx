@@ -59,7 +59,7 @@ export const Header: React.FC<HeaderProps> = ({ collapsed }) => {
           {/* Breadcrumb & Title */}
           <div>
             <div className="text-xs font-medium text-slate-500 tracking-wide">
-              Kochi Plant • Line 1 • Sun, 08 Nov 2026
+              Coimbatore Plant • Line 1 • Sun, 08 Nov 2026
             </div>
             <h1 className="text-2xl font-bold text-slate-900 tracking-tight mt-0.5">
               {title}
